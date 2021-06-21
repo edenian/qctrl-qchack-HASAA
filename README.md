@@ -10,6 +10,6 @@ Team HASAA
 
 Full details of the challenge are here: https://docs.q-ctrl.com/boulder-opal/application-notes/q-ctrl-qchack-challenge.
 
-You may enjoy our [write-up](QCHack_submission.pdf) for a detailed explanation of our approach.
+You may enjoy our [write-up](QCHack_submission.pdf) for a detailed explanation of our approach. You might also enjoy reading our [interview with Q-CTRL](https://q-ctrl.com/blog/q-ctrl-qchack-challenge-winners-team-hasaa/).
 
 In order to [run the notebook](Solution.ipynb) locally, you will need to sign up for an account through Q-CTRL and install the [necessary libraries](requirements.txt).
